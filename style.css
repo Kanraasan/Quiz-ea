@@ -1,0 +1,41 @@
+body {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+.container {
+    background-color: rgb(92, 152, 204);
+    width: 600px;  
+    border-radius:12px;
+    margin-top: -30px;
+    overflow: hidden;
+}
+
+h2 {
+    text-align: center;
+    padding: 1rem;
+    margin: 0;
+}
+.question-head {
+    padding: 4rem;
+}
+
+button {
+    width: 100%;
+    font-size: 15px;
+    padding: 10px;
+    border-style: none;
+    background-color: rgb(203, 75, 156);
+    cursor: pointer;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    font-size: 20px;
+}
